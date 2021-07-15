@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Phone Inventory App</string>
+    <string name="add_a_new_phone">Add a new Phone:</string>
+    <string name="add_new_phone">Add New Phone</string>
+    <string name="price_of_phone">Price of Phone</string>
+    <string name="sell_remove">Sell / remove</string>
+    <string name="phone_inventory">Phone Inventory</string>
+    <string name="welcome_manager">Welcome Manager!</string>
+</resources>
